@@ -9,7 +9,6 @@ This project focuses on performing end-to-end data analysis on a healthcare data
 ## ⚙️ Tools & Technologies
 
 * Python (Pandas)
-* SQL (MySQL)
 * Tableau (for dashboard visualization)
 * Git & GitHub
 
